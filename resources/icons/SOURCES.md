@@ -134,6 +134,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | Postico | `resources/icons/postico.png` | https://eggerapps.at/postico-icon-bw.png (official site) |
 | Proxyman | `resources/icons/proxyman.png` | https://proxyman.com/favicon/apple-touch-icon.png (official site; proxyman.io redirects here) |
 | QuickTime Player | `resources/icons/quicktime-player.png` | https://support.apple.com/favicon.ico (official site) |
+| QuietSpeech | `resources/icons/quietspeech.png` | https://quietspeech.app/assets/icon-512.png (official site, scaled to 64 px) |
 | Raycast | `resources/icons/raycast.png` | https://www.raycast.com/favicon-production.png (official site) |
 | Rectangle | `resources/icons/rectangle.png` | https://rectangleapp.com/apple-touch-icon.png (official site) |
 | Rectangle Pro | `resources/icons/rectangle-pro.png` | https://rectangleapp.com/apple-touch-icon.png (official Rectangle site; rectangleapp.com/pro serves a broken favicon reference) |

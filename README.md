@@ -805,6 +805,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://www.omnigroup.com/omnifocus/">OmniFocus</a></strong><br><sub>Professional-grade task management. <code>Paid</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/quietspeech.png" width="48" height="48" alt="QuietSpeech icon"></td>
+<td><strong><a href="https://quietspeech.app/">QuietSpeech</a></strong><br><sub>Hold-Fn dictation into any app with Apple's on-device speech recognition; no API key. <code>Paid</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/raycast.png" width="48" height="48" alt="Raycast icon"></td>
 <td><strong><a href="https://www.raycast.com/">Raycast</a></strong><br><sub>Blazingly fast extendable launcher. <code>Freemium</code></sub></td>
 </tr>
